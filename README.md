@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManuelXDuval
 - 👀 I’m interested in human health and agritech
-- 🌱 I’m currently learning the processes to produce ethanol from feedstock lignocellulose
-- 💞️ I’m looking to collaborate on plant biology problems
+- 🌱 I’m currently learning about cell-free nucleic-acids in human plasma. 
+- 💞️ I’m looking to collaborate on predicting clinical endpoints using omics' featuress. 
 - 📫 How to reach me manuelxduval[at]double-strand.com
 
 <!---
