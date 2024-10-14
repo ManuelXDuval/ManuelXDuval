@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManuelXDuval
-- 👀 I’m interested in human health and agritech
-- 🌱 I’m currently learning about cell-free nucleic-acids in human plasma. 
-- 💞️ I’m looking to collaborate on predicting clinical endpoints using omics' predictors. 
+- 🧪 I’m interested in human health and agritech
+- 🧬 I’m currently learning about cell-free nucleic-acids in human plasma. 
+- ⚕️  I’m looking to collaborate on predicting clinical endpoints using omics' predictors. 
 - 📫 How to reach me manuelxduval[at]double-strand.com
 
 <!---
